@@ -1,2 +1,3 @@
 # Panin-Technical-Test
-Technical Test Panin Dai-ichi Life by Henry Wijaya
+Technical Test Panin Dai-ichi Life 
+by Henry Wijaya
